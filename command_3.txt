@@ -1,0 +1,127 @@
+# linux command : - 
+
+  
+help : - show you basic command 
+
+man : - shows you complete manaual or that command or programe 
+
+ls : - list of all folder 
+
+cd : - changing dir 
+
+pwd : - print working dir 
+
+
+# related to folder 
+
+
+dir : same as ls also work in cmd 
+
+mkdir : create folder 
+
+cp : copy file or folder  | cp file and location of pasted area .
+
+mv : - move one folder to new folder 
+
+rm : - remove file and folder 
+
+
+sudo su : grant root privilages  all time . su  for when need .
+
+
+
+cat : - show content of file 
+
+nano : - linux file editior 
+
+gedit : file editiot software | also use for create file | gedit text.txt 
+
+after create file each file have three type of permise read write and excution .
+
+denote by r w  x : 
+
+ls -l : show detail info of file and folder 
+
+
+
+
+chmode : change dir permission .
+
+for giving permisiion and remove permision use + - 
+
+chmod -w filename  enter --> check ls -a  
+
+
+
+
+----------------------4 -------------advance ---------for install update 
+
+./ : - excute shell file 
+
+bash : excute shell programe 
+
+apt-get update  : - update playstore of linux 
+
+apt-get upgade  : - all update app in playstore same do linux also 
+
+apt get install gedit  : install thired party application . 
+
+make sure give sudo su to do  work 
+
+
+
+----------------------sytem level setting via command --------------------------
+
+
+top : -  showing linux processess  similar like windiw taskbar .
+
+kill : -  terminate processs manually . | kill pid get from top 
+
+w : -  who i looged on what they are doing .
+
+whoami : - display the username of the cureent user 
+
+touch : -  create Empty file . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

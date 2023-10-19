@@ -1,0 +1,17 @@
+file system : - 
+
+in window we have c  drive where window file are save . same as in linux .
+
+
+
+
+/bin  : - basuc programe : - ls cd mv etc 
+/sbin  : - sytem programe : - fdisk , syscti , mkfs etc 
+/etc : - configure file 
+/temp : - tempory file 
+/usr/bin : - application apt , nmap , etc 
+usr/share : - application support & data files 
+/home : - person dir of user /home/wscubetext 
+/root : - home dir of super user 
+
+

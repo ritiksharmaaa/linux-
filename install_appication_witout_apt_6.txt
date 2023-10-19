@@ -1,0 +1,25 @@
+use third service or official website . 
+
+how we install that file after downloding .
+
+
+we have downlord option three type zip : - have all configure and script who run and install it , 
+
+2 = debian file : - install very easy . 
+   
+    to install write this : - 
+
+     dpkg -i (mean install) and downloded file .
+
+
+      other file cam e like rpg first convert to debian than install it .
+
+
+
+zip file : - 
+
+  use github : - to installl software 
+
+  thirs party software is BeaF
+
+ 

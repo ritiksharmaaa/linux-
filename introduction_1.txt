@@ -1,0 +1,32 @@
+linux has so many distor for diffrent puprpose . 
+
+create multiple user inside linux also happen in window . 
+
+Multitasking : -  very efficiently communicate with hardware .
+
+Portability : - it can wok with any type of hardware even install in pen druve and run it even biometric machine , androide also . 
+
+Iot : - also ise it 
+
+
+security : - 
+
+
+Live/Cd/USB . : - mean run in even pendrive . just plug it and use it .
+
+
+
+Graphical User Interface . 
+
+application support also good : - 
+
+
+file system : - mean in linux hardware is also treated as a file . 
+
+so you use it import  wifi just like that . 
+
+and to run the file you have to give permission untile it not run .
+
+
+open sourse : - 
+

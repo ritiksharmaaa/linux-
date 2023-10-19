@@ -1,0 +1,12 @@
+operating system attack : - 
+
+misconfigration Attack : -  ex bydefault pass of router admin admin .
+
+Application level Attack : - 
+
+shrink wrap code Attack : -  mean after finding bug org not patch mean do right so another hacker hack it . 
+
+
+
+
+

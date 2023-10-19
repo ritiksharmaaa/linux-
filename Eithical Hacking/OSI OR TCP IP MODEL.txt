@@ -1,0 +1,82 @@
+what is OSI , how it work , what is tcp and ip , how it work ,  osi vs tcp ip 
+
+
+
+waht is osi model : - open system interconnection model 
+
+defien function in 7 layer and standarize communcation 
+
+it work with bottom to up 
+
+
+working 
+
+
+
+7 layers : - 
+
+ appication                             same for all 
+presentation 
+
+session 
+trnasport
+ network
+data layer 
+physical layer '
+client                                 server 
+
+
+this help in computer networking : - 
+
+physical layer : -  it work with bits streamign 
+
+data layer : - work on the wrror was generated 
+
+network : address resolution mean where it goes sourse address to destination address 
+
+transport : - acknoledge ment provide you to packet generated is send or incomming packets send or not .
+
+session : - when two sytem connectd it create  asesion and try to remain connected with that computer .
+
+same process is hapen when data send to server same this layers happens .
+
+presentation : - data manuplation import data compress , zip is donr by this layers .
+
+application : - it help in resourse sharing .
+
+
+
+-------------------------------TCP IP mODEL 
+
+
+TCP : means transmission control protocal 
+ip - internet protocol 
+
+it a basic version on OSI model v2 . 
+
+
+4/5 layer theu have 
+
+practival model 
+
+run over wan 
+
+
+
+
+
+tcp 4 layer model : - 
+
+application layer 
+transport layer 
+internet layer 
+network Acess Layer 
+
+
+in 5 layer model 
+
+application - transport - internet layer - (data link layer - physical layer) is a netwotk layer in 4 version . 
+
+
+
+

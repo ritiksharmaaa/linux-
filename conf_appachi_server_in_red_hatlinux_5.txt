@@ -1,0 +1,55 @@
+misrosoft os is use own server what linuxus : it use appachi server . 
+
+
+
+what is appchi server : - 
+
+it provide a port where user came and we provide some service . the server is a type of software which allow to intract with user .
+
+
+
+microsoftware : -  use IIS server Internat Information Service .
+
+linux use appchi server : so we can communicate via https  : - latest is appcahi 2 
+
+
+
+when ever it run server it open port 80 : 
+
+service appcahi2 start and it open : - 
+
+if we want to user communctcate with port 80, so we have make a private ip .
+
+
+if your write ifconfg - > so where inet and number is your private ip  of machine .
+
+bydefau;t a[ppcahe port is 80 : we can alos change it .
+
+changing port of appcahi server .
+
+
+
+cd etc 
+ls 
+choose appcahi 
+gedit file 
+
+
+after changing in cong file in any service ewe ahve to rstart it . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

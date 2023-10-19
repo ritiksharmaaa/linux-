@@ -1,0 +1,63 @@
+# mean each pc ahve there user and hist host name . 
+
+# mostly we have a localhost is a hostname of default pc . 
+
+
+
+whe you on terminal of linux machine . 
+it open like 
+
+
+host@hostname ex : kali@kali.
+give root previlagers . 
+
+sudo su 
+
+go  to etc folder where where all software configure here .
+
+two filw host and host name 
+
+gedit hostnae -, open edit username and it done . but you have to reboot also . 
+
+now it change . 
+
+now kali@ritiksharma : - 
+
+
+in networking you can create domain name if ip is private or public . 
+
+in window over private ip domain name is local host . 127.0.0.0.1
+
+
+now in linux . 
+
+etc -> gedit host 
+
+rename it loca, host to riitk so when we write ritik sharma it open our sytrem server .
+
+--------------------------------linux use appace server for acessing port 80 -----
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

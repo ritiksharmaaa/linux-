@@ -1,0 +1,32 @@
+top terminal shortcuts : - 
+
+tab : cd type three first word of file and press tab it autocomplete .
+ incase of softeare : - 
+
+  mfs press tab it show all softeare related to mfs .
+
+
+ctrl - c : - abort process manually 
+
+ctrl + l : - run clear command 
+
+ctrl + d : safe as exit 
+
+ctrl +alt + D : - minimize  all terminal and window .same for show 
+
+
+ctrl + u : - cleaar a text line 
+
+ctrl -z  : - suspend for bacground (fg for revert that work )
+
+ctrl + A : - for went back to strat 
+
+ctrl  + E : - move from start text to end .
+
+ctrl + shift _c / v  : for copy and paste
+
+
+
+
+
+  

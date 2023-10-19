@@ -1,0 +1,21 @@
+# multiple command in a single line : 
+
+  use operator for performing command use && || : ' 
+
+1 = cd Desktop ; ls   _ - means first command run or not but second muxt run 
+
+2 = cd && ls : - mean first it back to homw dir and run ls command .
+
+
+3 = || if one of comand it right it run that command . cd || ls - if cd run ls terminalte .
+
+
+
+
+
+
+
+
+
+
+   
