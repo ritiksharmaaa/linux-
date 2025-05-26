@@ -1,0 +1,218 @@
+#keeping you self safe opsec (operation security ).
+
+
+ why do you need to protect yourself and system 
+ 
+
+decrease effcetiness of savesdeoping by companies , govement and people 
+
+decrease possibility of retribution by targets 
+increase anonymization of you activity 
+- to you target 
+-on the platform 
+-to you  internet provider 
+ijsolation malicious link /document 
+
+
+as we research lot of there might be chance some track you or you hacked by hacker becuasew eclick lot of link and all that . that why we should to do some precation while doing osint  operation . 
+
+
+
+protect you system 
+some body can discover you  where you were looking 
+what you were doing 
+may be we need\ to hide you r traffic from .  the platform that you own 
+mask your traffic from you internet .
+
+
+what i syou risk model ?
+
+who or what aer are you trying to hide your activity from ? 
+
+your target 
+web server administration 
+isp 
+intenet tracker and advertiser 
+government 
+
+
+https://www.osintcurio.us/2019/04/18/basic-opsec-tips-and-tricks-for-osint-researchers/ read this article . 
+
+
+we see what to protect and what is level we used to hide which type of info . 
+
+we see a risk equalizer with things to protect . 
+
+basically  we see aa music sytem where we have knob where we doup and down to set equalizer base rever same we have our security . 
+
+
+up mean more secure and privaret
+down mean less sequre and private 
+
+now we move left to right 
+
+we have categroise or group of data that you might have to need to protect . 
+
+about you  > about you rnetwork > about you system /computer > who you work for > what you are doing . 
+
+
+we have left to right in each point we have up and down know . which we see to protect ourself .
+
+
+in the left first is about you . so use of personar account can get lot of inform to threat 
+basically we try to protect our personal and profession identies . 
+
+
+second one is your network .  to know about our ip and location 
+
+
+thired one is our computer protext from virus and malious malware . 
+
+fourth one  who you is wrok for  you rip address and other think might leak about the organisation we work for . what were doing 
+
+
+what are you doing  - we have to hide what  thing from the organisation who see what type of search we are doing .  because he want by the police whatever it is 
+
+
+
+
+let start with down or minimun protectection / behave like average user . . : - 
+
+red line in the bottome of all the knob which we can move up and down but we atrt from he down and wee see ared line in begine ing down . 
+
+just we push each one and each category . to up and down 
+
+we move left to right so in beginner we are at the satge which we can loose or leack all five information 
+
+ho wit happen : - we use a browser that  is unprotected . no anti tracker plugin no plugin no antivirus . no vpn  aside from the built into the whatever operating system .we   have we re jsut using kind of  blank slate opproach . 
+why we do it to behave like  normal user . 
+we are not doing extra layer of work we jsut buy computer and start by default browser . 
+no use of plugin . i might not use a vpn because all ot that add layers  to protect me
+they can also detected by the people that i'm  try to hide from 
+
+
+----------------------------------------------------------------------
+note : -  here  we see why we use all down catgory secutry and privacy . why we do all down five categrous why we give all the five info  to some one . here we learning what information we want to share it all planed . in mov we see a smart police investigator when they not find the villan they do something that villan find him and reach to me . 
+
+same as here we decide what  detail i want to show case to in the eye of those who see my activity to confuse and manuplate them 
+
+. ex suppose we want to behave like like a a average normal user . so who see me by see this info they thing they are not smart. and they try to ignore us . 
+----------------------------------------------------------------------
+
+
+------------now most secure approach . 
+thise are the usally things that you hear about when people talk about going into the 
+dark web where you need to protect your network and h=then you protect you system and use virtualization and use ans use vm inside a vm  and use a double vpn and send it through the tor network and you never use anything that related to you or you  personally and there s reason for doing all of these  
+things this would be a really high level of operational security 
+
+
+
+# 3 customized protection based o0n risk 
+
+here we up for abou you > in between for network  angina up for sytem > also up for who yu work for but down for what you are doing . 
+
+in music we have different setting we use for different progile of sound we want similary we can also do this for operational security . 
+
+here we doing customize based approach for the  work that you do 
+
+suppose we are investing about and ip we went to thisr part give them ip gete the info but here  my ip is stored on that third party service . that ok because we ok with that . 
+but if we want to fins something related to and Instagram profile i dont want to go with my personal profile to investigate that profile because my activate directly leaked my personal info . 
+
+
+
+
+-----------------------protecting : your identity -----------------
+
+1 use covert accounts /synthetic identities /sock puppets when possible , nebver personal accounts , 
+
+2 use thord party tool to passively collect data . 
+
+3 never re-use password or share your real personal data/intrest in your fake accounts. 
+
+
+it mean suppose you create on fake account but you password is simiar to orgginal account so suppose you fake account leak somewhere by some servie provide breach so that password is place in word list now this wordlist can crack your personal account . 
+
+and never use orginal personal data in sock puppet account . also be care full also in reset password question is also important so never resuse the password . use password dmanager 
+
+pendrive base lo al password manager for personal , sock puppet account .
+
+
+
+
+# Protectecting your network data 
+
+1 think  about who/what you are hiding from 
+2 consider using cellular connection to the internet . 
+3 Use paid VPNs Virtual Private Networks ) for both encryption and changing location appearance 
+4 virtualized cloud system and browser can be another buffer 
+
+# protecting your computer and phone 
+
+
+1 uses dedicated sytem to perform osint work when possible
+
+2 use virtulization tools / VMware vmbox . android emulators.
+
+3 use anti-virusand anti-malware software 
+
+4 check software for privacy and security leaks including your mobile social media apps . 
+
+
+note : - crossing you personal profile with your sock profile becuae those big data compaineout there those media they know if you log out of john smith and you log in griff and glenn they know that those two are connected because  they see you machine  and undertadn those are same machine so they account are connected . 
+
+dont think for the movement thery re out there trying to concet those people when it comes to the interactivity on there social platform because ultimately they want users to have 
+
+the experiec on there product of fisnifn people that htye knoe each other 
+
+see as friend suggestion pof the person from work and they use different all kind of the different things  that are propratry to try and decide how to serve.
+they just doing by see what account they serve in the same machin and  they connect and sugges to other people . 
+
+understand the evevry security setting which software you use 
+
+focus on  what you click on t& c and privacy police read it  you we amazed that what kind of data they taking from you and how they use it and all that . 
+
+ 
+for  taking all upper thing seriosely you can read some impo document ralted to that you read usasoc identity management cards . where you learn how you can hide you ridentity from he internet . 
+
+
+united state special operation command  it amilitry orgination but they relase thsese pedf 
+
+
+https://myosint.link/5a
+
+
+ https://myosint.link/opsec must read .
+
+
+this all are wide varity of skill and application whereter it is doing 
+thing like creating using a password manager 
+and how to set that up there one on that . 
+decresing the you openness on  the certain social media . several on that .
+removing you inf from data broker sites they have pdf on that as
+
+even if you not in unstate same thing litbit also apply to you .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

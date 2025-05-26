@@ -1,0 +1,204 @@
+#perform osint 2 
+
+doing an osint have a three step process . 
+
+
+start  
+question / do you need a clean osint platform ? 
+if yes >  clean prior data artficat and settings from analtyst platform > start documnenting 
+if no > start documenting 
+
+after documenting both yes or no 
+
+acuire customer requirement > acuuir seed data from customer > choose ttps > gather data > 
+analyze data 
+
+if new collection goals ?  yes > again t back to ttps  > if no > create report and briefing for customer  deleiver report n=and or brifing  > clean prior data artifcact and settings from analyst platform  > refine standard procedures and processes > update analysis platform with new tools  , new version of software etc >  end  
+
+
+
+
+
+
+it look simple liek a simple flow chart  but it is lot more complicate 
+onece you do over and over and over again yu will find that you really get used to it and became second nature 
+
+-----------------------
+
+what does it mean clean platform  you previous work on a projecet  . and on same pltform you do other work they might to not foris sound and not appplicbale in court and in the eye of law . 
+
+if not  suppose you are work in soc group .  so you get ip information from one person to another in same soc center that work fine . so it depend in what scenario  came in fornt of yu and you choose which platform .
+
+ so if you need you need to reset you r sytem and all that . 
+
+
+
+start documenting : - 
+
+ this is the most disliking part  which every osint dislike . until we found obsidian  
+ documenting what you re gonna do 
+when you re gonna do it 
+how you re gonna do 
+it all those things about the investigation could be very important . 
+sometime custome tell to do not direlty intract with  target . 
+also forbidden to vissitin the website tham i m going to give . becuse ther is malware or because itrun by group that we dont want to tip off 
+
+
+we capture this all thi tyo eof constraint in our notes so that we can then bring them bac k out in that final  hey we din t do this work at this data and time and we were
+told to not do thi sthing . 
+
+amtget the final product . people that read 
+
+
+#customer requirement : - 
+what they do they need you to do 
+what is good succefull  investigation for you 
+what do you want me  to find wha t data you want me to to find 
+what type of picture or video or img what  do you want me to research and then 
+ask them if they have anything to help me 
+
+i ve doen investigation where somebody say hey i want you to find my entire online profile and then let me know place i need  to increase my privacy  
+
+next phase acquire seed data from customer and ask them do you have send you all you  phoen number  al you email all you usernames . your name addresses relative and many time people will  you re suppose to find all that my aswer to that is yes absolutely i can and we will fian all that data 
+
+so i have master answer sheet which help to see iff any of this data is available on intent or not . 
+
+so we just take it for checking how much we are succefull after osint operation  so when i find some data i validate that this info if  your or soem one other .which we find via osint 
+
+some tim custom egive domain or email and that all that they hav e enven that can be helpfull 
+
+----------------------------------------------------------------------
+
+next phase is to choosing ttp - it stand for  TATTIC TECHNIQUE AND PROCEDURE
+
+ 
+ 
+
+ bascilay yu have to find whaihc tactic and technique is to use for gathering adn anylise data if we get some piot data we go back to ttp to find furthure data from the past data which we founf if ewe are not new collection goal  and repeting over an fover until you ran out from the data  you have tocreate you find product or you ran out of you money .
+
+
+
+create report and brifing to your customer . 
+
+some time a formal brifing verbal and also wriiten is important our customer 
+to understand and be  able ask us questions about what we did 
+many of dont need that they need an emil saying hey at  this data at this time i found this url  here  proof of this here a picture of it here i screen short and integrity hash 
+
+of the entire thing 
+
+may be they need some othe type of file like execl  work at this state at hte customer rewuriement 
+ stage
+
+
+you want our report to be in what format e
+than we deliver the report . and brifing most osint love to give brifing . 
+
+lest offer a brifimgg to my customer so 
+they have a chanhe to aak the question 
+
+some people have no idea what you do how you do it or how you found the thing and 
+
+some time it that connecting those dots . 
+
+saw this account that person picture had a comment on it for this and then i search on that and it that pathway that they may want to hear orally insted of just .in picture or in text . 
+
+you have dien your ssecemmetn the next two
+
+the next two bix is to getting better 
+
+
+
+ the lst three box is to aput delete toe data artifiact piro data and system and setting from analyst platform  that why you erase your files  
+revert you virtual machin or otherwise 
+ remove previosule good snapshort of you system depending on ewhat  depending on what certain sytem you using for your analyst platform this is erasing your data 
+
+
+
+
+earising the data fo the previous operation to continue to next assessment now as i mention before you . 
+
+
+
+let understand what is ttp . 
+
+
+it mean for different dat you dhave different ttp 
+
+suppose you get an email . you have to do operation on that than you have to choose which tactic and techin  you use to find more information related to that email . 
+
+so here weh have to know  which procedure we are folling for thi email 
+
+
+same thing ofr phone number  - you visit diffretn  website for phone number .
+
+document those thing . 
+becuae it makes it easy fro future you . 
+
+ne thing yiu have to alway do to documenting . what you research done because every reserch you know something different .  which we help you in later inverstigation . 
+
+also documenting new tool and new website you also have to document it . which help inn your osint work .  and add in you standar operating procedure . 
+
+
+
+many orrgaiisationhave there standard operatin procedure and there refine it one a year or  as they learn more and new somthing new in osint . 
+
+
+basically you can create your intractive live document where you can document new tool website and software that you found that really helped  you work better and make yourself better . 
+
+take the anylist platform you have you have resuing thm updating add new tool and mnay more whih i used  why you should to do take a snapshot becuse you revert the sytem every time you comple ot but you have to reinstall it every thing tool install in new sytem  so you need to install allt hose tools GAIN SO CAN T FORGET TO USE IT IN you next project .
+
+
+make another snapshort of that new sytem . 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

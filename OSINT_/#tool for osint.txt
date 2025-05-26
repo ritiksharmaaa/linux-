@@ -1,0 +1,93 @@
+#tool for osint
+obsidian documentation  https://obsidian.md/ 
+ther arma and Sebastian search by image . browser extension 
+
+check this tool : - https://myosint.link/36  
+
+
+------------place to practice OSINT  
+
+
+
+must watch this collection https://start.me/p/DPYPMz/the-ultimate-osint-collection
+
+this is the place wher eyou get the best resource osint . 
+
+
+
+follow your interst
+
+researcher scammers that have "opted" in for furthure analysis
+https://github.com/cipher387/osint_stuff_tool_collection cyber detective GitHub 
+https://www.geoguessr.com/
+https://twitter.com/quiztime and https://bsky.app/profile/quiztime.bsky.social
+https://at.myosint.traning/hatless 
+
+mot 's soint immersion bundel : https://www.myosint.training/bundles/osint-immersion
+
+mot course  https://www.myosint.training/bundles/mot-all-1-year
+
+
+science grffin hatless have lot of link which we annoying which one we have to use 
+
+so we have a different place where they tell where to start .
+
+so what they site do it run a script evry single night and it  feed data into this page this is th  start ,
+
+htttps://smart.myosint.traning  thisis the site
+
+insted of clicking on each one of those start me page and having to search for whatever it is that you want you can  you can came here this page crawls aand scrapes data from over 300 start me pages every single day including griffins and all you have to do it load up the page and then over where th number three is you type in whatever it is you re interested in  you want to know stuff by griffin type in hatless wonder or griffin you want to learn  things about telegram  type in telegram and then as you scroll down the page a whole bunch of different resources full from mnay other start me pages . 
+
+
+so scince thi are coming from 300 multiple source . you have to care full for security if the link are mlacious they are not resposneible so follow full sop to conduct operation with securyt mesure or self risk asseccement . 
+
+GitHub cyber dtive is not in that link because it not host in web site it host on GitHub . 
+
+
+you need to spend soem time with this tool to explaor to  check what work for you . 
+
+
+so this tool list is soem hosted if he decide to delte it you loose it so make sure to store it in locally . 
+
+
+
+------------------connecting to other help you learn 
+
+a lot of osint information is shared freely by the community 
+
+suggested places to watch / join :
+
+osint comuntoy 
+social media - follow #osint 
+
+redit.com/r/osint 
+
+linkedin groups 
+
+
+
+
+--------------------taking osint seriouslely 
+
+
+osint immersion  great place to start your osint journey 
+
+access or core osint course for 1 yesr 
+perfect for people in all fields . 
+
+
+AA osint course with immersi on . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

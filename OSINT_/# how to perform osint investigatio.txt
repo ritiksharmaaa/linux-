@@ -1,0 +1,40 @@
+# how to perform osint investigation . 
+
+there is no right way to do it 
+million of people who use osint in there work and all they have different and amazing approach . 
+
+how we suggesest  and doing it .  and yuo can feel free to customize it .
+  
+see image https://myosint.traning/2a 
+
+#generatin intelegence 
+
+start with a question 
+gather data 
+refine it into a information 
+add what  does it mean ? and make it intelegence (Osint) 
+
+ 
+relationship  between gathering data and creatin gthat and product of the intelligence
+eee when we run tool wheter it google bing or baidu and we get result that result are just data
+
+
+after gathing data  - we get information after that we translated and figure out what it mean within gthe scope of the intelegent . what is this mean when i see there pic . this in that location or this personal posted post tha on that site 
+
+
+than information combine with goal and trying to acchived that information than lead you down paths of  furthure discovery . 
+furthure tool that you want to run new data .  you want to collect and ultimately more 
+
+info when you have enough information  that th etime that you most likely will you generate you final intelligence product that OSINT tha part of open source intelegence . 
+
+many of dont create 100 page report for our customer 
+sometime we just need an email to send them  or may to tail with boss . 
+
+you dont send just collectionof data you need to show your anyalises on them anfd get insight with confidenc on you insight . 
+
+ 
+
+
+
+
+

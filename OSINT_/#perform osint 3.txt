@@ -1,0 +1,225 @@
+#perform osint 3 
+in this we know t =he industrial secret  in this . 
+
+
+
+#all the exprt osint does't  know evrthing constantly evolving and changing and adding new skill . sometime we are getting new thing when we research . soemtine in offline when we taking networking with people in the filed who  have different knowledge . 
+
+
+
+
+#collecting osint data with Tools -------------------
+
+to collect osint data we use :
+
+web Browsers 
+web Browser extension  and add-ons 
+third part website .that collect and analyze data 
+localapplications
+Scripts . 
+
+--------------------------------------
+
+osint is not tools and tools is not osint . 
+osint is not only collecting or gathering that . only anylisis and it refinement it the question . and answering but everybody is always. interested in the the tools tools are fantastic . 
+
+
+use browser extension that lets you do reverse image search with the click of a button .
+
+----------
+
+use wide world of extension and add ons is a little bit sketchy at times right 
+you are giving accesss to the  website that you websote that you re on  to what you have to store in your  browser and if that not a trusted browser  or they if the doing nefarious with your data that could be a  very risk to you so we are cautiousely optimistic about what  available in terms of extension and add on tools and so before you  doing 
+
+
+link anlysis platform oe software which we install in our system . 
+
+
+just using anytype of tool  is not good you have think about can in background the tool is not reveling you thing or something that compromise you and revel  you what you doing they can effect your security . 
+
+becuae normal you directly search top 10 tool od sosint you get but using those tool using carefully . 
+
+
+finally scripts there are script that can be developed privately  than can be develp commercially that can  perform certain function . 
+
+that can gater breakdown and analysis of data or perform a function for you maybe against 
+
+
+a website for explae extract certain . 
+
+
+
+----------------------------Pivoting -----------
+
+taking one piece of data and understanding the actions you can perform upon it to find other data . 
+
+
+---------------------------------------------------------
+https://myosint.link/36 see thi img to get soem insight .
+---------------------------------must read -------------
+
+
+# data is jsut a data until analyzed ----
+
+as osint investigator we llo for information buried well beyond page 1 or 2 of  google search result 
+
+the collection organization and analysis of the data is important . 
+
+
+the intelligence portion of osint is the key 
+
+ther emay be a lot of data to sort through 
+
+as data ios so big we need to remove or sort hat that which is irelavent to us . 
+
+for normal people they search first 10 link is impo for  us but osint ivestgator neeed to check the page 2 or 3 even 15  and end of the google result . 
+
+the way that search engine  work the  result that more peole click on go up to  the top 10 hte one that people dont click on so much are today thi end list  may be embarrassing things older things that are  very userfull to work so what i generally  do is i tell my dtudent =s always try to scroll tot he bottom see what else is shared click on link and make sure that you ve got as much of  the data as possible  one of the biggest problem i see that  stusent do is and junior analyst too  they dont t organize the data well they 
+gather all of the things from all the different place and they throw it together . 
+
+
+they just collect and say here is my osint intelgence but it is 't when you analyzed than it be an aactual intelgece . 
+
+
+
+# creating output for customer 
+
+sometime meaning ful output for the customer is incedible imorrtant . 
+
+it is the lasting impression your customer has of your work . 
+
+it help them move forward with the issue they brought to you . 
+
+output can vary widely from an email or conversation to full written report . 
+
+
+this is not fun for the osint that the thing is so borrowing and all tha . 
+
+ya it booring but that thing which make different from other osint investigator . 
+
+
+if your work produc tis well it speek loder and gave good impression on the customer . and high chance to repeat a customer . and make repotation in the industries and give you  
+marlet share of whatever your are doing . 
+
+no matter what you are a journalist crime anlyst researcher etch they help to make thme build repotation in on that area wher  you perform osint . 
+
+
+
+so best way to use it report template . where you related data  fro the customer . 
+
+you org county  you indivial have different requirement to taking about templete that not work that much  because evry customer  have there own parmeter and requirement so  revolving arounf busch of templet is not wrok very well because each templete is not exact match with the customer requirement . 
+
+ 
+most of time customer  want to see the result of all of your  tool i want o see all that data so ican do some analysis cools thant finewe dont bother to analyzed data customer want to do it self 
+
+may you can find different result which i find out . show coloboratve nature . 
+
+try to brief in simpe and sort manner not 10 or 20 word just keep them in  2 to 3 word  and explain it . 
+
+
+
+#overall reporting guidelines 
+
+talk to your stake holder about :
+what they need in the final output . 
+what fromate they want it 
+
+
+write objectively 
+and concisely mean direclt say we  found this no how we get andlao no ned just simple and cosis reporting . 
+
+ 
+
+Conssider:
+putting detailed dat ain appenddiecs 
+helping yoru stake holder to understand  what you finding mean 
+changing report format based on the type of target 
+Using images to get your message across . 
+
+
+
+give them bottom line up front many of you know this as the bluff technique .
+tell me what i need to know and then if i  want o go deeper in the report i will so i 
+try to put all of that up front putting in
+things like setaile appendedices of social media profile picture i found and tool 
+ output i 'll pu all all that at the end 
+
+
+but my goal is to take that first part that one page that two pages at the front of my 
+assessment my investigationand help my customer understand  and this is what you told me 
+
+this is i found this is what is might mean and i say might mean because they might have a different  interpretation i migh not have all the dat a
+
+they might have only give me a piece of the overall picture 
+
+tell him that intelegence within the scop eof ehat you founf 
+
+you can change you report formate based upon the type of target in the next slide we are going to 
+
+
+ket check a simple human investigace .  most organisation have different teplate base don target a individay  a web site a politician and a businee man or and organization . 
+
+
+try to use img becuas it potrai bunch of data very quickely . 
+i image is worth a thousand word queste is very popular . 
+
+you can simple serch for human target template for osint .  this template  id different if you target is a web site . 
+
+=----------------Annotating(giving femoark or tipri kerna ) images for osint documentation 
+https://myosint.link/13
+
+
+
+cosndider documenting 
+
+url to img 
+ filename 
+hash value (if required )
+
+if you need to annotate images only mark up(mean ging thouh what img show case to us in information .) copies of image (mean doing operation o img  we do it on copy not in orginal reson becuse if soemthign goes wrong you lost img . you downlord again but targer can also chage there img on sociall media to prevent loss we need to make copy of that image. ) or may be platform restric to do it . or may be those account should be sucpended . 
+
+so we need to document it as we do not wait to docuent at the end when yoy perform note it imediately . 
+
+in image you have to use contrast color to mark and also arrow numbering system or lettering system to say here number one two three  and put up number so when some one print black and white they see efectively the box which poin to some where in the img .  
+
+you need to create muliple copy in mutiple way to shwo case to cater evry customer 
+
+clorbliendness can see left img midel one is b/w right one  a normal img . 
+it like we see  frequecy in diffren tdiffrent cam raddar . 
+
+
+
+
+consider how your audience will consume the image 
+
+will they print it in black and white > 
+
+do thwy have a visual impairement  ?
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
